@@ -236,4 +236,9 @@ border-image: 0%;
     margin-top: 60%;
 
 }
+  .home{
+  height:100vh;
+        position: absolute;
+
+  }
 }

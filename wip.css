@@ -101,7 +101,7 @@ header .navigation .navigation-items a:hover::before {
   font-weight: 600;
   text-transform: uppercase;
   line-height: 1.2;
-  margin-top: 3%;
+  margin-top: 6%;
   margin-left: 5%;
 }
 
@@ -164,7 +164,7 @@ line-height: 100%;
     display: flex;
     color: #ffffff;
     width: 50%;
-  padding-top: 100%;
+  padding-top: 80%;
   margin-left: 3%;
 }
   

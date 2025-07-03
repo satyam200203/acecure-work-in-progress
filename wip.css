@@ -103,6 +103,7 @@ header .navigation .navigation-items a:hover::before {
   line-height: 1.2;
   margin-top: 6%;
   margin-left: 5%;
+  padding-top: 10%;
 }
 
 .home img {
